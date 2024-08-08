@@ -14,6 +14,9 @@
   <a href="https://github.com/marsskop/terraform-mirror">
     <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=marsskop&repo=terraform-mirror&theme=cobalt" />
   </a>
+  <a href="https://github.com/marsskop/lightkeytool">
+    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=marsskop&repo=lightkeytool&theme=cobalt" />
+  </a>
 </div>
 
 ## 📈 GitHub Stats
